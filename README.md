@@ -2,9 +2,9 @@
 York University Object Oriented Project
 
 note
-	description: "Summary description for {MODEL}."
-	author: ""
-	date: "$Date$"
+	description: "Main code"
+	author: "Gregorio Escobar"
+	date: "Winter 2015"
 	revision: "$Revision$"
 
 class
